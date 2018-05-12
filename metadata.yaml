@@ -1,0 +1,27 @@
+_repo: The-Danvers-Jewels-and-Sir-Charles-Danvers_19020
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cholmondeley, Mary
+    birthdate: 1859
+    deathdate: 1925
+    gutenberg_agent_id: '5732'
+    url: http://www.gutenberg.org/2009/agents/5732
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Cholmondeley
+description: ''
+gutenberg_issued: '2006-08-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19020'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Detective and mystery stories'
+title: The Danvers Jewels, and Sir Charles Danvers
+url: http://www.gutenberg.org/ebooks/19020
